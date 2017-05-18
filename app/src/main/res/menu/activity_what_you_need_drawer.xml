@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_view"
+            android:icon="@drawable/ic_menu_view"
+            android:title="Recentes" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_menu_search"
+            android:title="Consultas" />
+        <item
+            android:id="@+id/nav_recent_history"
+            android:icon="@drawable/ic_menu_recent_history"
+            android:title="Histórico" />
+        <item
+            android:id="@+id/nav_seekers"
+            android:icon="@drawable/ic_menu_seekers"
+            android:title="Buscadores" />
+    </group>
+
+    <item android:title="Avançado">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhados" />
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Configurações" />
+        </menu>
+    </item>
+
+</menu>

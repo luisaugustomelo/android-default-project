@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">What you Need</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_view">Recentes</string>
+    <string name="nav_search">Consultas</string>
+    <string name="nav_recent_history">Histórico</string>
+    <string name="nav_seekers">Buscadores</string>
+
+    <string name="exit_messege">Toque novamente para sair!</string>
+
+    <string name="create_keyword">Nova Consulta</string>
+
+    <string name="edit_message">Digite aqui sua consulta</string>
+</resources>
